@@ -35,3 +35,7 @@
 - [**Dr. Axel Rauschmayer**](2ality.com)
 - [**CSS Tricks**](css-tricks.com)
 - [**Sophie Alpert**](sophiebits.com)
+
+## Additional Resources
+
+- [**ThoughtWorks**](thoughtworks.com/radar)
